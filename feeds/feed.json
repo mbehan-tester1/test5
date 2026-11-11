@@ -1,29 +1,29 @@
 {
-  "description" : "Your home on the internet.",
-  "feed_url" : "https://example.com/feeds/feed.json",
-  "title" : "Your site name",
-  "home_page_url" : "https://example.com",
   "items" : [
     {
-      "content_html" : "<article>\n  <p>Feeling happy to be posting here!</p>\n</article>",
       "authors" : [
         {
-          "name" : "Your name here",
-          "url" : "https://example.com"
+          "url" : "https://mbehan-tester1.github.io/test5",
+          "name" : "Your name here"
         }
       ],
-      "id" : "https://example.com/index.html?post=2fcf37a6-10d8-4d8b-997a-fa51227110b4",
-      "url" : "https://example.com/index.html?post=2fcf37a6-10d8-4d8b-997a-fa51227110b4",
+      "url" : "https://mbehan-tester1.github.io/test5/index.html?post=2fcf37a6-10d8-4d8b-997a-fa51227110b4",
+      "content_html" : "<article>\n  <p>Feeling happy to be posting here!</p>\n</article>",
       "summary" : "Feeling happy to be posting here!",
+      "id" : "https://mbehan-tester1.github.io/test5/index.html?post=2fcf37a6-10d8-4d8b-997a-fa51227110b4",
       "date_published" : "2026-11-09T12:00:00Z"
     }
   ],
   "language" : "en-IE",
+  "feed_url" : "https://mbehan-tester1.github.io/test5/feeds/feed.json",
   "authors" : [
     {
-      "name" : "Your name here",
-      "url" : "https://example.com"
+      "url" : "https://mbehan-tester1.github.io/test5",
+      "name" : "Your name here"
     }
   ],
+  "title" : "Your site name",
+  "home_page_url" : "https://mbehan-tester1.github.io/test5",
+  "description" : "Your home on the internet.",
   "version" : "https://jsonfeed.org/version/1.1"
 }

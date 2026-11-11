@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Your site name</title>
-    <link>https://example.com</link>
+    <link>https://mbehan-tester1.github.io/test5</link>
     <description>Your home on the internet.</description>
     <dc:creator>Your name here</dc:creator>
     <language>en-IE</language>
     <lastBuildDate>Mon, 09 Nov 2026 12:00:00 GMT</lastBuildDate>
-    <atom:link href="https://example.com/feeds/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mbehan-tester1.github.io/test5/feeds/rss.xml" rel="self" type="application/rss+xml" />
     <item>
-      <link>https://example.com/index.html?post=2fcf37a6-10d8-4d8b-997a-fa51227110b4</link>
-      <guid isPermaLink="true">https://example.com/index.html?post=2fcf37a6-10d8-4d8b-997a-fa51227110b4</guid>
+      <link>https://mbehan-tester1.github.io/test5/index.html?post=2fcf37a6-10d8-4d8b-997a-fa51227110b4</link>
+      <guid isPermaLink="true">https://mbehan-tester1.github.io/test5/index.html?post=2fcf37a6-10d8-4d8b-997a-fa51227110b4</guid>
       <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
       <dc:creator>Your name here</dc:creator>
       <description>Feeling happy to be posting here!</description>
